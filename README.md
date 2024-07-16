@@ -62,10 +62,6 @@ For a detailed analysis, please refer to the Jupyter Notebook: https://github.co
 
 - Incorporate machine learning models for predictive analysis.
 
-## Author
-
-Ejaz Alam
-
 ## Acknowledgments
 
 - UCI Machine Learning Repository for providing the dataset.
